@@ -9,7 +9,7 @@
 
   <groupId>fm.last</groupId>
   <artifactId>lastfm-oss-config</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>lastfm-oss-config</name>
   <description>Last.fm OSS shared configuration files.</description>
 
