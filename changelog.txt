@@ -1,2 +1,4 @@
 TBA
+
+1.0.0 (2012-11-26)
 - Initial release.
